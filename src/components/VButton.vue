@@ -37,7 +37,7 @@ export default {
     }
   },
   created() {
-    console.log(this.$attrs)
+    // console.log(this.$attrs)
   }
 }
 </script>
